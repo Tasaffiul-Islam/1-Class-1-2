@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+	background: beige;
+}
+div{color: #602525;}
+.container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #9f5959;
+	padding: 32px;
+}
+h1{
+	margin: 0;
+	color: #6ab7cc;
+	font-size: 82px;
+margin-left: auto;margin-right: auto;align-content: space-evenly;text-align: center;}
+p{
+	color: #282727;
+	font-size: 30px;
+	line-height: 33px;
+}
+img{/* width: 1200px; */max-width: 100%;}
+.banner{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	background: 000;
+	padding: 10px;
+}
